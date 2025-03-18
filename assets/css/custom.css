@@ -9,7 +9,11 @@ Custom Css
     margin-top: 60px !important;
 } */
 
-
+@media (max-width:768px){
+    .navbar{
+        margin-top: 0 !important;
+    }
+}
 
 .shop-section {
     display: grid;
